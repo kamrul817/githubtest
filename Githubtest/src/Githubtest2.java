@@ -5,6 +5,7 @@ public class Githubtest2 {
 		
 		
 		System.out.println("nazah sabnam");
+		System.out.println("rafnaz");
 
 	}
 
